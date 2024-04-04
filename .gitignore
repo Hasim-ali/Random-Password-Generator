@@ -2,7 +2,6 @@
 
 # Compiled output
 /package-lock.json
-/dist
 /tmp
 /out-tsc
 /bazel-out
